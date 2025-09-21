@@ -1,6 +1,6 @@
 # bootcamp-aiml
 This repository documents my learning journey throughout the AI ML Bootcamp, covering programming, data science, and machine learning.  
-It includes notes and practical coding exercises, organized by days.
+It includes notes and practical coding exercises, organized by session.
 
 ## Session Topics
   - **Session 1**
@@ -14,6 +14,13 @@ It includes notes and practical coding exercises, organized by days.
   - **Session 9**
   - **Session 10**
   - **Session 11**
+
+## Tools
+  - Programming & Data: Python, SQL
+  - Libraries: Pandas, NumPy, Scikit-learn, Matplotlib
+  - Data Visualization: Tableau
+  - Environment: Jupyter Notebook, Google Colab, VS Code
+  - Version Control: Git, GitHub
 
 ## Goals
   - Strengthen my understanding of programming fundamentals.  
