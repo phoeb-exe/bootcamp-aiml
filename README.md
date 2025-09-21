@@ -34,5 +34,4 @@ It includes notes and practical coding exercises, organized by session.
   - All projects and exercises are based on bootcamp materials and my own exploration.
 
 ## Author
-**Winona Phoebe**
-Informatics Engineering Student | Aspiring Data Scientist | Tech Enthusiast 
+**Winona Phoebe** | Data Science Enthusiast 
